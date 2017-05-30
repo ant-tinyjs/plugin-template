@@ -10,7 +10,7 @@ Version: v${pkg.version}`;
 
 const config = {
   entry: {
-    <%=camelCaseName%>: ['./src/index.js'],
+    <%=buildName%>: ['./src/index.js'],
   },
   output: {
     path: path.resolve(__dirname, 'dist'),

@@ -16,9 +16,9 @@
 /**
  * <%=description%>
  *
- * @class <%=camelCaseName%>
+ * @class <%=buildName%>
  */
-class <%=camelCaseName%> {
+class <%=buildName%> {
   /**
    *
    */
@@ -34,4 +34,4 @@ class <%=camelCaseName%> {
   }
 }
 
-module.exports = <%=camelCaseName%>;
+module.exports = <%=buildName%>;

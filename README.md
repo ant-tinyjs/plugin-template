@@ -29,7 +29,7 @@
 ``` js
 require('@tinyjs/<%=name%>');
 // 或者
-// import <%=camelCaseName%> from '@tinyjs/<%=name%>';
+// import <%=buildName%> from '@tinyjs/<%=name%>';
 ```
 
 ## 依赖
