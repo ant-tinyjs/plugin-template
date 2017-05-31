@@ -1,5 +1,5 @@
 {
-  "name": "@tinyjs/<%=name%>",
+  "name": "<%=name%>",
   "version": "0.0.1",
   "author": "<%=author%>",
   "description": "<%=description%>",

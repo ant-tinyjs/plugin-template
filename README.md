@@ -10,7 +10,7 @@
 
 - 推荐作为依赖使用
 
-  - `npm install @tinyjs/<%=name%> --save`
+  - `npm install <%=name%> --save`
 
 - 也可以直接引用线上cdn地址，注意要使用最新的版本号，例如：
 
@@ -27,9 +27,9 @@
 <script src="http://tinyjs.net/libs/tiny.debug.js"></script>
 ```
 ``` js
-require('@tinyjs/<%=name%>');
+require('<%=name%>');
 // 或者
-// import <%=buildName%> from '@tinyjs/<%=name%>';
+// import <%=buildName%> from '<%=name%>';
 ```
 
 ## 依赖
