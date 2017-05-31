@@ -4,12 +4,8 @@
  */
 
 /**
- * @namespace Tiny
- */
-
-/**
  * Tiny.js
- * @external tiny
+ * @external Tiny
  * @see {@link http://tinyjs.net/}
  */
 
