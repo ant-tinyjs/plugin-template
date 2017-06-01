@@ -1,5 +1,5 @@
 version = `cat package.json| grep -w version | awk -F '"' '{print $$4}'`
-gitlab  = git@gitlab.alipay-inc.com:tiny-plugin/<%=name%>.git
+gitlab  = git@gitlab.alipay-inc.com:tiny-plugins/<%=name%>.git
 github  = https://github.com/ant-tinyjs/<%=name%>.git
 
 qtdeploy:
