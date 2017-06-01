@@ -27,7 +27,7 @@
 <script src="http://tinyjs.net/libs/tiny.debug.js"></script>
 ```
 ``` js
-require('<%=name%>');
+var <%=buildName%> = require('<%=name%>');
 // 或者
 // import <%=buildName%> from '<%=name%>';
 ```
