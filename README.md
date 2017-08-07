@@ -24,7 +24,7 @@
 
 引用 Tiny.js 源码
 ``` html
-<script src="http://tinyjs.net/libs/tiny.debug.js"></script>
+<script src="https://a.alipayobjects.com/g/tiny/tiny/1.0.2/tiny.js"></script>
 ```
 ``` js
 var <%=buildName%> = require('<%=name%>');
@@ -34,7 +34,3 @@ var <%=buildName%> = require('<%=name%>');
 
 ## 依赖
 - `Tiny.js`: [Link](http://tinyjs.net/#/docs/api)
-
-## API文档
-
-TODO

@@ -15,6 +15,7 @@
   "files": [
     "src",
     "demo",
+    "dist",
     "tests"
   ],
   "scripts": {
