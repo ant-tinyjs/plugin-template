@@ -16,7 +16,7 @@
     "dist",
     "src",
     "demo",
-    "tests"
+    "test"
   ],
   "scripts": {
     "start": "webpack-dev-server --devtool source-map --inline --hot --host 0.0.0.0",
