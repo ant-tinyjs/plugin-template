@@ -4,7 +4,7 @@
 
 ## 查看demo
 
-http://tinyjs.net/#/plugins/<%=name%>/demo
+http://tinyjs.net/plugins/<%=name%>.html#demo
 
 ## 引用方法
 
@@ -33,8 +33,8 @@ var <%=buildName%> = require('<%=name%>');
 ```
 
 ## 依赖
-- `Tiny.js`: [Link](http://tinyjs.net/#/docs/api)
+- `Tiny.js`: [Link](http://tinyjs.net/api)
 
 ## API文档
 
-http://tinyjs.net/#/plugins/<%=name%>/docs
+http://tinyjs.net/plugins/<%=name%>.html#docs
