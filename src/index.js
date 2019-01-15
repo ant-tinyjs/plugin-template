@@ -1,6 +1,8 @@
 /**
- * @file        <%=description%>
+ * @name        <%=name%>
+ * @overview    <%=description%>
  * @author      <%=author%>
+ * @license     MIT
  */
 
 /**
