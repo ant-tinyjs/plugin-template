@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/ant-tinyjs/<%=name%>.git"
   },
-  "main": "dist/main.js",
+  "main": "main.js",
   "files": [
     "index.js",
     "index.debug.js",
@@ -60,7 +60,6 @@
     "rollup-plugin-commonjs": "^9.1.6",
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-progress": "^0.4.0",
-    "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-serve": "^0.4.2",
     "rollup-plugin-uglify": "^3.0.0",
     "sinon": "^4.2.2",
