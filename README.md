@@ -24,7 +24,7 @@ http://tinyjs.net/plugins/<%=name%>.html#demo
 
 引用 Tiny.js 源码
 ``` html
-<script src="https://gw.alipayobjects.com/os/lib/tinyjs/tiny/1.2.4/tiny.js"></script>
+<script src="https://gw.alipayobjects.com/os/lib/tinyjs/tiny/1.3.1/tiny.js"></script>
 ```
 ``` js
 var <%=buildName%> = require('<%=name%>');
