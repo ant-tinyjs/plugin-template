@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/ant-tinyjs/<%=name%>.git"
   },
+  "engineStrict": true,
+  "engines": {
+    "install-node": "^10.22.1"
+  },
   "main": "index.debug.js",
   "files": [
     "index.js",
