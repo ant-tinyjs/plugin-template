@@ -25,7 +25,7 @@
     "test"
   ],
   "scripts": {
-    "dev": "rollup -c --watch",
+    "dev": "rollup -c -m --watch",
     "prebuild": "rm -rf dist",
     "build:debug": "rollup -c",
     "build:prod": "rollup -c --environment BUILD:production",
